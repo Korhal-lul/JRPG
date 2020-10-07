@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="043f29aa-6289-401f-8d85-2302bbe081c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TerrainFace.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Planet.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TerrainFace.cs" />
+        <option value="$PROJECT_DIR$/Planet.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hsuwJcryKeD977zIAMTXIQxnJn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="043f29aa-6289-401f-8d85-2302bbe081c7" name="Default Changelist" comment="" />
+      <created>1600812408088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600812408088</updated>
+      <workItem from="1600812463484" duration="2989000" />
+      <workItem from="1600868100964" duration="261000" />
+      <workItem from="1600868468481" duration="34000" />
+      <workItem from="1600868688321" duration="3000" />
+      <workItem from="1600868785162" duration="16000" />
+      <workItem from="1600868887321" duration="3000" />
+      <workItem from="1600869018420" duration="2113000" />
+      <workItem from="1600874730415" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600874743230">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="454" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/1920.40.1366.728@0.40.1920.1040" timestamp="1600874743230" />
+    <state x="695" y="93" key="SettingsEditor" timestamp="1600870059055">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="695" y="93" key="SettingsEditor/0.40.1920.1040/1920.40.1366.728@0.40.1920.1040" timestamp="1600870059055" />
+  </component>
+</project>
